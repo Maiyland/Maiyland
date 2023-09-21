@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Maiyland
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Maiyland/Maiyland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Khánh Nam
+- 👀 I’m interested in football and play game
+- 🌱 I'm a pro-player for esport
+- 💞️ My lover her name Trà My
+- 📫 If u want to contact with me, i will pin in my profile.
